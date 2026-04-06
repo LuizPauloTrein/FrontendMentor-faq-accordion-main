@@ -42,7 +42,7 @@ O foco principal foi praticar manipulação de DOM com JavaScript, controle de e
 
 ## 🌎 Deploy
 
-https://luizpaulotrein.github.io/FrontendMentor-faq-accordion-main/
+https://luizpaulotrein.github.io/FrontendMentor-faq-accordion/
 
 ---
 
