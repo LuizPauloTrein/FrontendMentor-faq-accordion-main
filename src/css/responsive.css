@@ -1,0 +1,39 @@
+@media (max-width: 768px){
+    .background-top{
+        background-image: url(../../assets/images/background-pattern-mobile.svg);
+        background-size: cover;
+    }
+
+    .container{
+        padding: 25px;
+        width: 90%;
+    }
+
+    .header h1{
+        font-size: 1.8rem;
+    }
+
+    .header img{
+        height: 25px;
+    }
+
+    .faq-list{
+        gap: 15px;
+    }
+
+    .question{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+    }
+
+    .question span{
+        font-size: 1rem;
+        line-height: 1.4;
+    }
+
+    .answer{
+        font-size: 0.9rem;
+    }
+}
